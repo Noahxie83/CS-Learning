@@ -12,7 +12,8 @@ Come I Here World Hello
 #include <stdio.h>
 #include <string.h>
 int main(){
-    char *str;
+    char str[81];
+    //char *str没有初始化
     char ch;
     char *p=str;
     while ((ch=getchar())!='\n'){
