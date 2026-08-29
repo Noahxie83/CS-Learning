@@ -12,4 +12,8 @@ def all_true(n, Lf):
             break
     return flag
 # Examples:    
-all_true() # prints 6
+f1=lambda x:x%2==0
+f2=lambda y:y%2==1
+L=[f1,f2]
+n=3
+print(all_true(n,L))
