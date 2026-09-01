@@ -3,5 +3,5 @@
 观看内容剔除重复内容共十四章,其中“ACLLib”和“交互图形设计”部分未看\
 C语言转 **C++** 挑着看了MOOC上PKU郭炜老师的 **《程序设计与算法(一)》**\
 C++**STL**库为网络自行查找并学习的\
-**Python**为MIT6.100L公开课程,并用MOOC上PKU郭炜老师 **《实用Python程序设计》**对Numpy、matplotlib、pandas\
+**Python**为MIT6.100L公开课程,并用MOOC上PKU郭炜老师 **《实用Python程序设计》** 对Numpy、matplotlib、pandas了进行补充\
 **DCA**为THU邓俊辉老师的公开课程
